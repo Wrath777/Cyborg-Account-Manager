@@ -26,7 +26,7 @@ node src/host.py
 
 ## Author
 
-- [*~ Mr. Rexx .♡ 💸#6725*](https://www.github.com/DevInsane777) 
+- [**~ Mr. Rexx .♡ 💸#6725**](https://www.github.com/DevInsane777) 
 
 ## Support
 
