@@ -1,6 +1,6 @@
 # Cyborg-Account-Manager
 
-> Account Hosting Service | Made by @- Insane🌹#0777
+> Account Hosting Service | Made by @~ Mr. Rexx .♡ 💸#6725
 
 ## Setup
 
@@ -26,4 +26,8 @@ node src/host.py
 
 ## Author
 
-- [*- Insane777🌹*](https://www.github.com/DevInsane777)
+- [*~ Mr. Rexx .♡ 💸#6725*](https://www.github.com/DevInsane777) 
+
+## Support
+
+- [Discord Server](https://discord.gg/EAGW6ayZvQ)
