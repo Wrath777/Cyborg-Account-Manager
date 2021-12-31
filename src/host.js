@@ -18,7 +18,7 @@
 
 const fs = require('fs');
 const eris = require('eris');
-const { green } = require("chalk");
+// const { green } = require("chalk");
 
 
 
@@ -39,7 +39,7 @@ for (let i = 0; i < arr.length; i++) {
   
   const Api = arr[i];
   Api.on('hello', function () { 
-    console.log(green(`[+] Token : ${i+1} Logged!`)) 
+    console.log(`[+] Token : ${i+1} Logged!`)
     Api.editStatus("online", { name: "Hosted by Cyborg", type: 1, url: "https://twitch.tv/discord"})
   })
   
