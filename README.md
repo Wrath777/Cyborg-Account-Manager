@@ -30,4 +30,4 @@ node src/host.py
 
 ## Support
 
-- [Discord Server](https://discord.gg/EAGW6ayZvQ)
+- [Discord Server](https://discord.gg/WXXKJudjfg)
